@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 PHP 7.0+
 
 ### Installation
-Just include the library and you are deady to go.
+Just include the library and you are ready to go.
 
 ## Testing
 Under the folder named *tests* you will find a demo csv file and a test script ready to use.
