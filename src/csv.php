@@ -1,7 +1,7 @@
 <?php 
 
     /**
-     * Small library to handle reading lines from a CSV file
+     * Simple PHP library to handle reading lines from a CSV file
      */
     class CSV {
     /* constants */
