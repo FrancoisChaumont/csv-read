@@ -1,5 +1,5 @@
 # CSV - Read lines
-Simple library to read lines from a CSV file
+Simple PHP library to read lines from a CSV file
 
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
