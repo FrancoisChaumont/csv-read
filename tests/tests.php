@@ -1,7 +1,7 @@
 <?php
 
 // include the library
-require __DIR__ . "/../src/csv.php";
+require __DIR__ . "/../src/Csv.php";
 
 // creates a new object and open the csv file
 $pathToFile = __DIR__ . "/tests.csv";
