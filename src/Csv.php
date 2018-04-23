@@ -3,7 +3,7 @@
     /**
      * Simple PHP library to handle reading lines from a CSV file
      */
-    class CSV {
+    class Csv {
     /* constants */
         const R = 'r';      // Read only. Starts at the beginning of the file
         const RP = 'r+';    // Read/Write. Starts at the beginning of the file
