@@ -1,7 +1,11 @@
 <?php
 
+namespace FC;
+
+use FC\Csv;
+
 // include the library
-require __DIR__ . "/../src/Csv.php";
+require __DIR__ . "/../vendor/autoload.php";
 
 // creates a new object and open the csv file
 $pathToFile = __DIR__ . "/tests.csv";

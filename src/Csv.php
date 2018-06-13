@@ -1,5 +1,7 @@
 <?php 
 
+namespace FC;
+
     /**
      * Simple PHP library to handle reading lines from a CSV file
      */
