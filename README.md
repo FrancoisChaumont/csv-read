@@ -1,4 +1,10 @@
 # CSV - Read lines
+
+![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/csv-read.svg)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/csv-read/issues)
+[![GitHub issues](https://img.shields.io/github/issues/FrancoisChaumont/csv-read.svg)](https://github.com/FrancoisChaumont/csv-read/issues)
+[![GitHub stars](https://img.shields.io/github/stars/FrancoisChaumont/csv-read.svg)](https://github.com/FrancoisChaumont/csv-read/stargazers)
+![Github All Releases](https://img.shields.io/github/downloads/FrancoisChaumont/csv-read/total.svg)
 Simple PHP library to read lines from a CSV file
 
 ## Getting started
