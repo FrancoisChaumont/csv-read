@@ -1,4 +1,4 @@
-# CSV - Read lines
+# DEPRECATED
 
 ![GitHub release](https://img.shields.io/github/release/FrancoisChaumont/csv-read.svg)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/FrancoisChaumont/csv-read/issues)
