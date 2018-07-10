@@ -1,6 +1,6 @@
 <?php 
 
-namespace FC;
+namespace FC\CsvRead;
 
     /**
      * Simple PHP library to handle reading lines from a CSV file

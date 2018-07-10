@@ -1,8 +1,6 @@
 <?php
 
-namespace FC;
-
-use FC\Csv;
+namespace FC\CsvRead;
 
 // include the library
 require __DIR__ . "/../vendor/autoload.php";
