@@ -1,5 +1,5 @@
 # DEPRECATED
-See [file-parsers](https://github.com/FrancoisChaumont/file-parsers) instead.
+**See [file-parsers](https://github.com/FrancoisChaumont/file-parsers) instead.**
 
 Simple PHP library to read lines from a CSV file
 
